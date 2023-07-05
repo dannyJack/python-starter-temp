@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python_starter_temp_dannyJack"
+name = "python-starter-temp-dannyJack"
 version = "0.0.1"
 authors = [
     { name="Daniel Cisneros", email="work.dcisneros@gmail.com" },
